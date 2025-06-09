@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankit-Trivedi-02
-- 👀 I’m interested in codind 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning node js
 - 📫 How to reach me via linkedin
 - 😄 Pronouns: he/him
